@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_01_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護医療院夕張【短期入所療養介護（介護医療院）】北海道夕張市若菜8番地12", "url": "https://www.kaigokensaku.mhlw.go.jp/01/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0175900257-00&ServiceCd=551&Type=search", "url2": "https://www.houseikai.or.jp/yubari/rouken.html" }, "geometry": { "type": "Point", "coordinates": [ 141.9698828, 43.0266981 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院　北湯沢温泉いやしの郷【短期入所療養介護（介護医療院）】北海道伊達市大滝区優徳町159番地", "url": "https://www.kaigokensaku.mhlw.go.jp/01/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=01B3700015-00&ServiceCd=551&Type=search", "url2": "http://www.jikeikai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 141.040831985843994, 42.640150413277702 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院　えみの里順天【短期入所療養介護（介護医療院）】北海道北広島市大曲695番地", "url": "https://www.kaigokensaku.mhlw.go.jp/01/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=01B1300024-00&ServiceCd=551&Type=search", "url2": "http://www.junten.jp" }, "geometry": { "type": "Point", "coordinates": [ 141.4928166, 43.0055859 ] } },
+{ "type": "Feature", "properties": { "内容": "古平町介護医療院　海のまちクリニック【短期入所療養介護（介護医療院）】北海道古平郡古平町大字浜町644番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/01/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=01B2500036-00&ServiceCd=551&Type=search", "url2": "https://town.furubira.lg.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.635240900000014, 43.2578715 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院こじま短期入所療養介護【短期入所療養介護（介護医療院）】北海道余市郡余市町黒川町7丁目13番地", "url": "https://www.kaigokensaku.mhlw.go.jp/01/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=01B2500010-00&ServiceCd=551&Type=search", "url2": "http://rinjinkai.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 140.7920059, 43.1868169 ] } }
+]
+}

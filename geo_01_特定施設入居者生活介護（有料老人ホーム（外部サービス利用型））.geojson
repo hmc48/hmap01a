@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_01_特定施設入居者生活介護（有料老人ホーム（外部サービス利用型））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "有料老人ホームゆう【特定施設入居者生活介護（有料老人ホーム（外部サービス利用型））】北海道上川郡東川町北町4丁目９－２１", "url": "https://www.kaigokensaku.mhlw.go.jp/01/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=173100421-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 142.5007923, 43.704779 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム「花つむぎ」【特定施設入居者生活介護（有料老人ホーム（外部サービス利用型））】東町2丁目4番12号", "url": "https://www.kaigokensaku.mhlw.go.jp/01/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=173602236-00&ServiceCd=&Type=search", "url2": "http://www.douousatou.or.jp/shiraoi/shiraoi_yu_hana.html" }, "geometry": { "type": "Point", "coordinates": [ 139.38667860000001, 35.7054368 ] } }
+]
+}

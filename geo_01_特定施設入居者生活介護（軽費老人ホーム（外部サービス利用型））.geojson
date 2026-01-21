@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_01_特定施設入居者生活介護（軽費老人ホーム（外部サービス利用型））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウスアニスティ深川　特定施設入居者生活介護事業所【特定施設入居者生活介護（軽費老人ホーム（外部サービス利用型））】北海道深川市２条４番３号ケアハウス　アニスティ深川", "url": "https://www.kaigokensaku.mhlw.go.jp/01/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=177400355-00&ServiceCd=&Type=search", "url2": "https://honesty-fukagawa.jp/" }, "geometry": { "type": "Point", "coordinates": [ 142.0352705, 43.7180215 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスきよさと【特定施設入居者生活介護（軽費老人ホーム（外部サービス利用型））】北海道斜里郡清里町羽衣町35番地34", "url": "https://www.kaigokensaku.mhlw.go.jp/01/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=175300763-00&ServiceCd=&Type=search", "url2": "http://www.protech-web.co.jp/homepage/kiyosato-shakyo/" }, "geometry": { "type": "Point", "coordinates": [ 144.593581421288008, 43.831422307248801 ] } }
+]
+}
